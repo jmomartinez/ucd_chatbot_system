@@ -1,1 +1,1 @@
-# ucd_chatbot_system
+# UC Davis Chatbot System
