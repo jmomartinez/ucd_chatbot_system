@@ -1,0 +1,28 @@
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1601745390275/work
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1625835561163/work
+chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1610093477312/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1626371162869/work
+cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography_1616851512278/work
+cycler==0.10.0
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1612898609989/work
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1624925864380/work
+matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-suite_1628521333196/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1626648422174/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1625678024115/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
+pyparsing==2.4.7
+PySocks @ file:///Users/runner/miniforge3/conda-bld/pysocks_1610291493748/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1628432020987/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1628206458939/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1597680516047/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1626092076920/work
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1625489059091/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1624634538755/work

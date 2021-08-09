@@ -6,7 +6,7 @@ import numpy as np
 questions = []
 answers = []
 
-for line in open('../../NLP/UC Davis Chatbot/faq_davis.json', 'r'): 
+for line in open('Datasets/faq_davis.json', 'r'): 
     #ast.literal_eval - safely evaluate an expression node or a string containing a Python literal or container display. 
     data = ast.literal_eval(line)
     questions.append(data['question'].lower())
